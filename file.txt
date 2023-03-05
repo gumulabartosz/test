@@ -1,0 +1,32 @@
+    1  git clone https://github.com/gumulabartosz/test.git
+    2  cd test/
+    3  ls
+    4  ls
+    5  help
+    6  echo /?
+    7  touch file
+    8  echo "WSB" > file
+    9  ls
+   10  cat file 
+   11  git status
+   12  git add file 
+   13  git add *
+   14  git status 
+   15  git commit
+   16  git config --global user.email "bartosz.gumula.01@gmail.com"
+   17  git config --global user.name "gumulabartosz"
+   18  ls
+   19  git commit
+   20  git commit
+   21  git commit -m "Some changes"
+   22  git add
+   23  git add file 
+   24  git commit -m "Some changes"
+   25  git status 
+   26  git push
+   27  git push
+   28  git add *
+   29  git commit -m ""
+   30  git commit -m "f"
+   31  git push
+   32  history > file.txt
